@@ -53,3 +53,5 @@ dkms.conf
 
 # Ignore swap files; I use vim.
 *.sw[klmnop]
+
+*.xcodeproj
